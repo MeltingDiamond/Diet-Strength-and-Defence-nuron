@@ -1,7 +1,7 @@
 {
   "name": "Basic Bibite Diet, Strength, Defence",
   "description": "This is the most basic bibite.\u000b\nAn herbivorous bibite that will move around slowly, look for plants, eat them, and reproduce.\u000b\u000bWhat more do you want from them? ",
-  "version": "0.5.1",
+  "version": "0.5.1 modded: DietStrengthDefence v1",
   "generation": 1,
   "genes": [
     15.0,
